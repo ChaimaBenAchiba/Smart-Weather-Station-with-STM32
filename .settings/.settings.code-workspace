@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Core"
+		},
+		{
+			"path": "../Debug"
+		},
+		{
+			"path": "../Drivers"
+		}
+	]
+}
